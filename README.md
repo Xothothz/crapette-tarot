@@ -1,1 +1,1 @@
-# crapette_tarot
+# crapette-tarot
